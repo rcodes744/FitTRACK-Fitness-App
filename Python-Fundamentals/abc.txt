@@ -1,0 +1,9 @@
+age,marks,state
+20,55,GJ
+20,55,GJ,Fri Jan  9 14:22:49 2026
+51,152.0,0,Fri Jan  9 14:26:21 2026,Not Eligible
+21,120.0,0,Fri Jan  9 14:26:38 2026,Not Eligible
+19,79.0,0,Fri Jan  9 14:32:26 2026,Eligible
+22,33.0,,Fri Jan  9 14:46:03 2026,Not Eligible
+22,33.0,0,Fri Jan  9 14:46:23 2026,Not Eligible
+
